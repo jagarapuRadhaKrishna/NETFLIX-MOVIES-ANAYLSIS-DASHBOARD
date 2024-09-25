@@ -28,5 +28,5 @@ i am excited to Share My Latest Tableau Dashboard ! Hey everyone!  I’m thrille
 # HOW TO ACCESS THE DASHBOARD:
 
 1. Download or clone this repository.
-2.Open the Tableau file (.twb or .twbx).
-3.Explore the interactive dashboard.
+2. Open the Tableau file (.twb or .twbx).
+3. Explore the interactive dashboard.
