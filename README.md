@@ -7,8 +7,7 @@ i am excited to Share My Latest Tableau Dashboard ! Hey everyone!  I’m thrille
 
 --> Interactive Visualizations: Explore different parameters through bar charts, line charts, and maps.
 
---> Comparisons: Easily compare the tv shows and movies of their ratings ,top 10 genres , total movies & tv shows by country & also by year  across multiple metrics with   
-    clean, visually appealing graphs.
+--> Comparisons: Easily compare the tv shows and movies of their ratings ,top 10 genres , total movies & tv shows by country & also by year  across multiple metrics with clean, visually appealing graphs.
 
 --> Filtering Options: Users can filter by country/year & ratings to dive deeper into specific data sets.
 
