@@ -3,7 +3,7 @@ i am excited to Share My Latest Tableau Dashboard ! Hey everyone!  I’m thrille
 
 ![Dashboard 1](https://github.com/user-attachments/assets/28cb917f-235a-4a6d-9b98-d83aa7dc188a)
 
-#FEATURES OF THE DASHBOARD:
+# FEATURES OF THE DASHBOARD:
 
 --> Interactive Visualizations: Explore different parameters through bar charts, line charts, and maps.
 
@@ -14,7 +14,7 @@ i am excited to Share My Latest Tableau Dashboard ! Hey everyone!  I’m thrille
 
 --> Dynamic Insights: Use the dashboard to analysis to take the clarity on the netflix tv shows & movies on this netflix dashboard 
 
-DATA SET : 
+# DATA SET : 
 
 [netflix_titles krishna.xlsx](https://github.com/user-attachments/files/17137635/netflix_titles.krishna.xlsx)
 
@@ -25,7 +25,7 @@ DATA SET :
 --> Data pre-processing: Excel/CSV
 
 
-#HOW TO ACCESS THE DASHBOARD:
+# HOW TO ACCESS THE DASHBOARD:
 
 1. Download or clone this repository.
    
